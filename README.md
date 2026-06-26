@@ -1,7 +1,6 @@
 # Hi there 👋, I'm Mohammed Ahmed Bin Mahfoudh
 
-🚀 **Self-taught Full Stack & AI Developer** | 🌍 **Arab-Indian** | 🗣️ **Bilingual (English • Arabic • Hindi)**
-
+🚀 **Self-taught Full Stack & AI Developer** 
 ## 👨‍💻 About Me
 
 I'm passionate about building impactful, user-friendly applications and constantly exploring new technologies. From MERN stack development to AI-powered solutions, I love solving real-world problems with code and creativity.
